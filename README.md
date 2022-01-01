@@ -1,4 +1,4 @@
-<h2 align="left">Greetings, 👋 I'm Luka</h1>
+<h2 align="left"><img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">Greetings, 👋 I'm Luka</h1>
 <h3 align="left">A passionate front-end developer from Georgia</h3>
 
 <div style="display:flex; flex-direction:row; justify-content:space-between;">
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **everything**
 
 - ⚡ Fun fact **I love drawing and playing video games.**
-
+<img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
   </div>
   <div>
   <img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
