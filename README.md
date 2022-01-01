@@ -1,20 +1,12 @@
-<h2 align="left"><img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">Greetings, 👋 I'm Luka</h1>
+<h2 align="left">Greetings, 👋 I'm Luka</h1>
 <h3 align="left">A passionate front-end developer from Georgia</h3>
 
-<div style="display:flex; flex-direction:row; justify-content:space-between;">
-  <div>
-    
 - 🥅 2022 Goals **Contribute more to Open Source Projects.**
 
 - 🌱 I’m currently learning **everything**
 
 - ⚡ Fun fact **I love drawing and playing video games.**
-<img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
-  </div>
-  <div>
-  <img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
-  </div>
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="32" height="32"/> </a>
