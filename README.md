@@ -5,13 +5,7 @@
 
 - 🌱 I’m currently learning **everything**
 
-- 📫 How to reach me **luka.jioshvili20@gmail.com**
-
 - ⚡ Fun fact **I love drawing and playing video games.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
