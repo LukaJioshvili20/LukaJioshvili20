@@ -1,7 +1,6 @@
 <h3 align="left">Greetings 👋, I'm Luka</h1>
 <h3 align="left">A passionate front-end developer from Georgia</h3>
 <br/>
----
 - 🌱 I’m currently learning **everything**
 
 - ⚡ Fun fact **I love drawing and playing video games.**
