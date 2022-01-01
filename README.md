@@ -1,7 +1,7 @@
 <h2 align="left">Greetings, 👋 I'm Luka</h1>
 <h3 align="left">A passionate front-end developer from Georgia</h3>
 
-<div>
+<div style="display:flex; flex-direction:row; justify-content:space-between;">
   <div>
     
 - 🥅 2022 Goals **Contribute more to Open Source Projects.**
@@ -12,7 +12,7 @@
 
   </div>
   <div>
-  <img height="80" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
+  <img height="160" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
   </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
