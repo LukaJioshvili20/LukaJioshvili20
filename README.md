@@ -2,8 +2,6 @@
 <h3 align="left">A passionate front-end developer from Georgia</h3>
 <br/>
 ---
-- 🥅 2022 Goals **Contribute more to Open Source Projects.**
-
 - 🌱 I’m currently learning **everything**
 
 - ⚡ Fun fact **I love drawing and playing video games.**
