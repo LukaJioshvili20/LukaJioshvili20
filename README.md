@@ -3,7 +3,8 @@
 
 <div>
   <div>
-  - 🥅 2022 Goals **Contribute more to Open Source Projects.**
+    
+- 🥅 2022 Goals **Contribute more to Open Source Projects.**
 
 - 🌱 I’m currently learning **everything**
 
@@ -11,7 +12,7 @@
 
   </div>
   <div>
-  <img src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
+  <img height="80" style="transform: scaleX(-1);" src="https://github.com/LukaJioshvili20/hellwalker/blob/master/src/assets/images/DoomGuyAnimated.gif?raw=true" alt="DoomGuyAnimated Gif">
   </div>
 </div>
 <h3 align="left">Languages and Tools:</h3>
