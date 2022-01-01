@@ -1,6 +1,5 @@
 <h3 align="left">Greetings 👋, I'm Luka</h1>
 <h3 align="left">A passionate front-end developer from Georgia</h3>
----
 <br/>
 - 🥅 2022 Goals **Contribute more to Open Source Projects.**
 
