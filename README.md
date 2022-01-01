@@ -1,5 +1,5 @@
-<h1 align="center">Greetings 👋, I'm Luka</h1>
-<h3 align="center">A passionate front-end developer from Georgia</h3>
+<h2 align="left">👋 Greetings, I'm Luka</h1>
+<h3 align="left">A passionate front-end developer from Georgia</h3>
 
 - 🥅 2022 Goals **Contribute more to Open Source Projects.**
 
