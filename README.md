@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Luka</h1>
+<h1 align="center">Hi 👋, I'm Luka </h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
 - 🌱 I’m currently learning **Nuxt.js 3 and Typescript**
@@ -19,7 +19,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lukajioshvili"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lukajioshvili" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lukajioshvili20&show_icons=true&locale=en&layout=compact" alt="lukajioshvili20" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lukajioshvili20&" alt="lukajioshvili20" /></p>
